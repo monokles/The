@@ -1,7 +1,7 @@
 # The-Big-Bad-Monster
 The Big Bad Monster, a javascript game.
 A [Ludum Dare](https://http://ludumdare.com) #33 compo entry.
-Entry link: [Click here](http://ludumdare.com/compo/ludum-dare-33/?uid=57171)
+Entry link: [Click here](http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=57171)
 
 Humans have entered your lair, and now you can't sleep! Chase them off but be careful not to kill them. You might be a monster but you're not a murderer!
 
